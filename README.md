@@ -91,7 +91,7 @@ cc -Wall -Wextra -Werror main.c -o my_program
 - [Linux man pages](https://man7.org/linux/man-pages/): behavior of every re-implemented function (`man 3 strlcpy`, `man 3 memchr`, ...).
 - [GNU Make manual](https://www.geeksforgeeks.org/): explainations and examples.
 - [C concepts](https://www.learn-c.org/): uses and exercices.
-- [check "resources" Dir
+- ~check "resources" Dir~
 
 **Use of AI**
 
